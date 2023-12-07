@@ -1,2 +1,3 @@
 Structure query langauge-To Store data into database
 CRUD Operation
+5 sub-languages of sql is DDL, DML, DQL, TCL, DCL.    tushar
