@@ -1,2 +1,6 @@
 Structure query langauge-To Store data into database
 CRUD Operation
+c- creat
+r- read
+u- update
+d- delete
